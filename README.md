@@ -1,5 +1,6 @@
 # Todo-list-API
-Todo list REST API using Spring Boot, Spring Data Jpa, MySQL
+
+Welcome to my Todo list REST API using Spring Boot, Spring Data Jpa, MySQL!
 
 This is a simple Todo list api having function to create, read, update and delete tasks.
 We have task (name of the task), completed (true or false), date created and date updated.
